@@ -4,3 +4,13 @@ Niveles de prueba
 .- Pruebas de Integración.
 .- Pruebas de Sistema.
 .- Pruebas de Rendimiento.
+
+
+Tipos de pruebas
+
+  .- Rendimiento.
+  .- Base de datos.
+  .- Seguridad.
+  .- Funcionalidad.
+  .- Usabilidad.
+  .- Interfaz.
