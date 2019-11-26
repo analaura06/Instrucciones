@@ -14,3 +14,10 @@ Tipos de pruebas
   .- Funcionalidad.
   .- Usabilidad.
   .- Interfaz.
+
+
+Técnicas de pruebas
+
+  .- Caja blanca.
+  .- Caja negra.
+  .- Caja gris.
