@@ -1,4 +1,4 @@
-Nibeles de prueba
+Niveles de prueba
 
 .- Pruebas de Componentes.
 .- Pruebas de Integración.
