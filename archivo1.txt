@@ -3,7 +3,7 @@ Niveles de prueba
 .- Pruebas de Componentes.
 .- Pruebas de Integración.
 .- Pruebas de Sistema.
-.- Pruebas de Rendimiento.
+.- Pruebas de Aceptación.
 
 
 Tipos de pruebas
